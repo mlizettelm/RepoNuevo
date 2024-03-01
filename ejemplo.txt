@@ -1,0 +1,2 @@
+Hola, estamos en el curso de introduccion a github
+estoy haciendo el primer commit
